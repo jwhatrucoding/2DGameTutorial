@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "QkMZmPFFhnHQd2M6u3ADAaQZbk1VDAmthZZD7Nckj0+ZH6UH0c+7gQiCN8folN1Vkm5vebgsiHlmX1Vb0LFoiA==",
+  "success": true,
+  "projectFilePath": "/Users/jwhatrucoding/Desktop/j脳/devstuff/Godot/Learning2DGame/Learning2DGame.csproj",
+  "expectedPackageFiles": [
+    "/Users/jwhatrucoding/.nuget/packages/godot.sourcegenerators/4.2.1/godot.sourcegenerators.4.2.1.nupkg.sha512",
+    "/Users/jwhatrucoding/.nuget/packages/godotsharp/4.2.1/godotsharp.4.2.1.nupkg.sha512",
+    "/Users/jwhatrucoding/.nuget/packages/godotsharpeditor/4.2.1/godotsharpeditor.4.2.1.nupkg.sha512",
+    "/Users/jwhatrucoding/.nuget/packages/microsoft.netcore.app.ref/6.0.24/microsoft.netcore.app.ref.6.0.24.nupkg.sha512",
+    "/Users/jwhatrucoding/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.24/microsoft.aspnetcore.app.ref.6.0.24.nupkg.sha512"
+  ],
+  "logs": []
+}

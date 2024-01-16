@@ -1,0 +1,17 @@
+/Users/jwhatrucoding/Desktop/j脳/devstuff/Godot/Learning2DGame/.godot/mono/temp/obj/Debug/Learning2DGame.csproj.AssemblyReference.cache
+/Users/jwhatrucoding/Desktop/j脳/devstuff/Godot/Learning2DGame/.godot/mono/temp/obj/Debug/Learning2DGame.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jwhatrucoding/Desktop/j脳/devstuff/Godot/Learning2DGame/.godot/mono/temp/obj/Debug/Learning2DGame.AssemblyInfoInputs.cache
+/Users/jwhatrucoding/Desktop/j脳/devstuff/Godot/Learning2DGame/.godot/mono/temp/obj/Debug/Learning2DGame.AssemblyInfo.cs
+/Users/jwhatrucoding/Desktop/j脳/devstuff/Godot/Learning2DGame/.godot/mono/temp/obj/Debug/Learning2DGame.csproj.CoreCompileInputs.cache
+/Users/jwhatrucoding/Desktop/j脳/devstuff/Godot/Learning2DGame/.godot/mono/temp/bin/Debug/Learning2DGame.deps.json
+/Users/jwhatrucoding/Desktop/j脳/devstuff/Godot/Learning2DGame/.godot/mono/temp/bin/Debug/Learning2DGame.runtimeconfig.json
+/Users/jwhatrucoding/Desktop/j脳/devstuff/Godot/Learning2DGame/.godot/mono/temp/bin/Debug/Learning2DGame.dll
+/Users/jwhatrucoding/Desktop/j脳/devstuff/Godot/Learning2DGame/.godot/mono/temp/bin/Debug/Learning2DGame.pdb
+/Users/jwhatrucoding/Desktop/j脳/devstuff/Godot/Learning2DGame/.godot/mono/temp/bin/Debug/GodotSharp.dll
+/Users/jwhatrucoding/Desktop/j脳/devstuff/Godot/Learning2DGame/.godot/mono/temp/bin/Debug/GodotSharpEditor.dll
+/Users/jwhatrucoding/Desktop/j脳/devstuff/Godot/Learning2DGame/.godot/mono/temp/obj/Debug/Learning2DGame.csproj.CopyComplete
+/Users/jwhatrucoding/Desktop/j脳/devstuff/Godot/Learning2DGame/.godot/mono/temp/obj/Debug/Learning2DGame.dll
+/Users/jwhatrucoding/Desktop/j脳/devstuff/Godot/Learning2DGame/.godot/mono/temp/obj/Debug/refint/Learning2DGame.dll
+/Users/jwhatrucoding/Desktop/j脳/devstuff/Godot/Learning2DGame/.godot/mono/temp/obj/Debug/Learning2DGame.pdb
+/Users/jwhatrucoding/Desktop/j脳/devstuff/Godot/Learning2DGame/.godot/mono/temp/obj/Debug/Learning2DGame.genruntimeconfig.cache
+/Users/jwhatrucoding/Desktop/j脳/devstuff/Godot/Learning2DGame/.godot/mono/temp/obj/Debug/ref/Learning2DGame.dll
